@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <!-- typical material style colors -->
+        <!-- sets cursor color -->
+        <item name="colorControlActivated">@android:color/black</item>
+    </style>
+
+</resources>

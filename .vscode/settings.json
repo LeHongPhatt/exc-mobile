@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Default Dark+ Experimental",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "eslint.codeActionsOnSave.rules": null,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
